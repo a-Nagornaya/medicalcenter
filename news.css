@@ -1,0 +1,16 @@
+.accordion{
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.accordion-button{
+    background-color: #F6C0B4; 
+    border: 0px;
+    border-radius: 10px;
+}
+.accordion-header{
+    height: 90%;
+    background-color: #F6C0B4;
+    border-radius: 10px;
+    border: 0px;
+    padding: 0%;
+}
